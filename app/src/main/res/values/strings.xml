@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppAlimentosDB</string>
+    <string name="tewNombre">Nombre Alimentacion;</string>
+    <string name="NombrEditex">Nombre</string>
+    <string name="textipo">Tipo de Nutricion</string>
+    <string name="edtTIPO" />
+    <string name="edtOrigen" >Origen Alimentos</string>
 </resources>
